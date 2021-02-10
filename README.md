@@ -10,7 +10,7 @@ Disassortative graphs refer to those with a low node homophily. In disassortativ
 ----
 * [ICLR 2021] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[Paper]](https://openreview.net/forum?id=Wi5KUNlqWty)[[Code]](https://github.com/dongkwan-kim/SuperGAT)
 * [ICLR 2021] **Adaptive Universal Generalized PageRank Graph Neural Network** [[Paper]](https://openreview.net/forum?id=n6jl7fLxrP)[[Code]](https://github.com/jianhao2016/GPRGNN)
-
+* [WSDM 2021] **Node Similarity Preserving Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/2011.09643)[[Code]](https://github.com/ChandlerBang/SimP-GCN)
 
 2020
 ----
