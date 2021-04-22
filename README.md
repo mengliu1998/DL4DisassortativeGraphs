@@ -17,6 +17,7 @@ Disassortative graphs refer to those with a low node homophily. In disassortativ
 * [ICLR 2021] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[Paper]](https://openreview.net/forum?id=Wi5KUNlqWty)[[Code]](https://github.com/dongkwan-kim/SuperGAT)
 * [ICLR 2021] **Adaptive Universal Generalized PageRank Graph Neural Network** [[Paper]](https://openreview.net/forum?id=n6jl7fLxrP)[[Code]](https://github.com/jianhao2016/GPRGNN)
 * [WSDM 2021] **Node Similarity Preserving Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/2011.09643)[[Code]](https://github.com/ChandlerBang/SimP-GCN)
+* [AAAI 2021] **Graph Neural Networks with Heterophily** [[Paper]](https://arxiv.org/abs/2009.13566) [[Code]](https://github.com/GemsLab/CPGNN)
 
 2020
 ----
@@ -24,4 +25,6 @@ Disassortative graphs refer to those with a low node homophily. In disassortativ
 <br/><br/>
 
 * [NeurIPS 2020] **Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs** [[Paper]](https://arxiv.org/abs/2006.11468)[[Code]](https://github.com/GemsLab/H2GCN)
+* [ICML 2020] **Simple and Deep Graph Convolutional Networks** [[Paper]](https://arxiv.org/abs/2007.02133)[[Code]](https://github.com/chennnM/GCNII)
+* [KDD 2020] **Residual Correlation in Graph Neural Network Regression** [[Paper]](https://arxiv.org/abs/2002.08274)[[Code]](https://github.com/000Justin000/gnn-residual-correlation)
 * [ICLR 2020] **Geom-GCN: Geometric Graph Convolutional Networks** [[Paper]](https://openreview.net/forum?id=S1e2agrFvS)[[Code]](https://github.com/graphdml-uiuc-jlu/geom-gcn)
