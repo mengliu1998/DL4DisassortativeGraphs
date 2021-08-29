@@ -1,4 +1,6 @@
 # DL for Disassortative Graphs
+![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
 This repo collects papers about developing deep learning methods on disassortative graphs.
 
 Disassortative graphs refer to those with a low node homophily. In disassortative graphs, nodes with the same label could be distant from each other and nodes with distinct labels are more likely to be connected with edges.
