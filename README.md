@@ -10,6 +10,7 @@ Disassortative graphs refer to those with a low node homophily. In disassortativ
 
 2021
 ----
+* [arXiv 2021] **Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification?** [[Paper]](https://arxiv.org/abs/2109.05641)
 * [arXiv 2021] **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks** [[Paper]](https://arxiv.org/abs/2102.06462v2)
 <br/><br/>
 * [ICML 2021] **Graph Neural Networks Inspired by Classical Iterative Algorithms** [[Paper]](https://arxiv.org/abs/2103.06064)[[Code]](https://github.com/FFTYYY/TWIRLS)
