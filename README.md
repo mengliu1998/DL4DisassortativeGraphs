@@ -9,7 +9,7 @@ Disassortative graphs refer to those with a low node homophily. In disassortativ
 
 2022
 ----
-* [AAAI 2022] **Graph Neural Networks with Heterophily** [[Paper]](https://arxiv.org/abs/2112.13562) 
+* [AAAI 2022] **Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily** [[Paper]](https://arxiv.org/abs/2112.13562) 
 * [WWW 2022] **GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily** [[Paper]](https://arxiv.org/abs/2110.15777) [[Code]](https://github.com/Xzh0u/GBK-GNN)
 * [ICLR 2022] **Is Homophily a Necessity for Graph Neural Networks?** [[Paper]](https://openreview.net/forum?id=ucASPPD9GKN) 
 
