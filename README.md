@@ -20,6 +20,7 @@ Disassortative graphs refer to those with a low node homophily. In disassortativ
 * [arXiv 2021] **Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks** [[Paper]](https://arxiv.org/abs/2102.06462v2)
 <br/><br/>
 * [TPAMI] **Non-Local Graph Neural Networks** [[paper]](https://arxiv.org/abs/2005.14612)
+* [NeurIPS 2021] **Universal Graph Convolutional Networks** [[Paper]](https://openreview.net/forum?id=MSXDyfli9vy)[[Code]](https://github.com/jindi-tju/U-GCN)
 * [NeurIPS 2021] **Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods** [[Paper]](https://arxiv.org/abs/2110.14446)[[Code]](https://github.com/CUAI/Non-Homophily-Large-Scale)
 * [KDD 2021] **Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467373)[[Code]](https://github.com/susheels/gnns-and-local-assortativity)
 * [ICML 2021] **Graph Neural Networks Inspired by Classical Iterative Algorithms** [[Paper]](https://arxiv.org/abs/2103.06064)[[Code]](https://github.com/FFTYYY/TWIRLS)
